@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Save Excursion"
+        android:id="@+id/excursionSave"/>
+
+    <item android:title="Notify"
+        android:id="@+id/excursionNotify"/>
+
+    <item android:title="Delete Excursion"
+        android:id="@+id/excursionDelete"/>
+
+    <!--    <item android:title="Share Excursion"-->
+    <!--        android:id="@+id/excursionShare"/>-->
+
+
+</menu>
